@@ -1,0 +1,14 @@
+{
+	"category" : "CallGraph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "oscarnierstrasz 9/24/2014 11:28",
+	"instvars" : [
+		"calls" ],
+	"name" : "CallGraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
